@@ -1,0 +1,1 @@
+A dynamic and stylish stopwatch web application built using HTML, CSS, and JavaScript. It features a dark theme with a green accent color, milliseconds precision, and the ability to record lap times along with user-defined notes for each lap.
